@@ -28,3 +28,10 @@ I’m not the focus — the code and the fun of learning are! 😉
 
 Best regards,  
 [Eloi Teaching](https://www.youtube.com/@EloiTeaching)
+
+
+----------
+
+Note: 
+- https://github.com/EloiStree/2024_05_17_BasicPythonUdpWebsocketIID
+- https://github.com/EloiStree/SignMetaMaskTextHere

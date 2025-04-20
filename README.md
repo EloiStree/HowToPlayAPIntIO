@@ -1,5 +1,5 @@
 
-# How To Play APInt.IO
+## How To Play APInt.IO
 
 Welcome 🧙‍♂️!!!
 

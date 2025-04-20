@@ -1,4 +1,6 @@
+![image](https://github.com/user-attachments/assets/25ea11e2-cb33-48f9-b818-4274ba4c77fd)
 
+---------------- 
 
 # Today we play at: Stealth Bastard
 

@@ -10,9 +10,15 @@ If you are here, it means that you want to play with us on [APInt.IO](https://ap
 Depending of the game we are using keyboard or Xbox.  
 Manual: [https://github.com/EloiStree/2024_08_29_ScratchToWarcraft](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft)  
 (⌨[Keyboard](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft) - 🎮[XOMI](https://github.com/EloiStree/2022_01_24_XOMI))  
-
-As the input depend of the current game running I invite you to go here to learn know how to play:
-[https://github.com/EloiStree/HowToPlayAPIntIO/blob/main/HowToPlayToday.md](https://github.com/EloiStree/HowToPlayAPIntIO/blob/main/HowToPlayToday.md)
-
-
+ 
+As the input depend of the current game running I invite you to go here to learn know how to play:  
+[https://github.com/EloiStree/HowToPlayAPIntIO/blob/main/HowToPlayToday.md](https://github.com/EloiStree/HowToPlayAPIntIO/blob/main/HowToPlayToday.md)  
+  
+May the code be with you.  
+ 
+If you have question or the server is down:    
+[https://discord.gg/ZAUkBUF8ak](https://discord.gg/ZAUkBUF8ak)   
+  
+Best regards,  
+[Eloi Teaching](https://www.youtube.com/@EloiTeaching)  
 

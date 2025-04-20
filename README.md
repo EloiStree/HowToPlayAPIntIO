@@ -12,6 +12,7 @@ Manual: [https://github.com/EloiStree/2024_08_29_ScratchToWarcraft](https://gith
 (⌨[Keyboard](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft) - 🎮[XOMI](https://github.com/EloiStree/2022_01_24_XOMI))  
 
 As the input depend of the current game running I invite you to go here to learn know how to play:
+[https://github.com/EloiStree/HowToPlayAPIntIO/blob/main/HowToPlayToday.md](https://github.com/EloiStree/HowToPlayAPIntIO/blob/main/HowToPlayToday.md)
 
 
 

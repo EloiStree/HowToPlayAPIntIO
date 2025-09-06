@@ -12,6 +12,9 @@
 
 Int input to send: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft?tab=readme-ov-file#xbox-xinput-version
 
+I am currently writing a tutorial for Godot here:  
+[https://github.com/EloiStree/HelloGodotRemoteControlHub/blob/main/EN/HollowKnightSilksong/ReadMe.md](https://github.com/EloiStree/HelloGodotRemoteControlHub/blob/main/EN/HollowKnightSilksong/ReadMe.md)  
+
 ``` py
 import socket
 import time

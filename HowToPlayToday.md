@@ -15,6 +15,14 @@ Int input to send: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft?tab
 I am currently writing a tutorial for Godot here:  
 [https://github.com/EloiStree/HelloGodotRemoteControlHub/blob/main/EN/HollowKnightSilksong/ReadMe.md](https://github.com/EloiStree/HelloGodotRemoteControlHub/blob/main/EN/HollowKnightSilksong/ReadMe.md)  
 
+Want to play on your computer (without Arduino gamepad) ?    
+Tutorial about use of XOMI and VIGem: [https://youtu.be/_vMG_CROAi4](https://youtu.be/_vMG_CROAi4)    
+_(⚠️You should play it on a old computer with an other Steam account. Third party application are always against TOS and bannable.)_  
+
+
+A bit of code if you want to try in Python on the Twitch live.
+Replace the '193.150.14.47' by '127.0.0.1' if you are on your own computer.
+
 ``` py
 import socket
 import time
